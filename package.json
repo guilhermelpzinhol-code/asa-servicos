@@ -1,0 +1,22 @@
+{
+  "name": "asa-servicos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serviços industriais para Óleo & Gás, Petroquímica e Indústria Pesada, manutenção de tanques, andaimes, pintura industrial, içamento e limpeza técnica.",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilhermelpzinhol-code/asa-servicos.git"
+  },
+  "keywords": [
+    "servicos-industriais",
+    "manutencao-industrial",
+    "polo-camacari",
+    "oleo-e-gas",
+    "petroquimica"
+  ],
+  "license": "UNLICENSED"
+}
