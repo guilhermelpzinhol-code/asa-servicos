@@ -32,7 +32,7 @@ asa-servicos/
 
 ## TODO
 
-- [ ] Substituir o logo da empresa em `imgs/logo.png` e `imgs/favicon.png` pelo logo definitivo da A.S.A Serviços
-- [ ] Substituir as 5 fotos dos serviços (`imgs/container-01.jpg` a `imgs/container-05.jpg`) por fotos reais de operações industriais (manutenção de tanques, andaimes, pintura/jateamento, içamento e limpeza técnica)
-- [ ] Substituir `imgs/container-escritorio-foto.jpg` (seção Problema) e `imgs/container-especificacoes.jpg` (seção Especificações Técnicas) por imagens reais da operação
+- [ ] Substituir as fotos da seção Aplicações (5 cards) por fotos reais das operações da A.S.A — atualmente usando imagens genéricas industriais do Unsplash
+- [ ] Substituir as fotos das seções "O Problema" e "Especificações Técnicas" por imagens reais da operação
+- [ ] Substituir o background do hero por foto real de operação no Polo de Camaçari
 - [ ] Configurar domínio próprio (apontar DNS para o GitHub Pages ou hospedagem escolhida)
